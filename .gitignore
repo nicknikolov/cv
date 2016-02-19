@@ -1,0 +1,10 @@
+.DS_Store
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fdb_latexmk
